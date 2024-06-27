@@ -14,6 +14,10 @@
  Date: 26/06/2024 21:38:25
 */
 
+/*
+ 对softproj.sql的第一次修改
+ */
+
 SET NAMES utf8mb4;
 SET FOREIGN_KEY_CHECKS = 0;
 

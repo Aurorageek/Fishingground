@@ -2,7 +2,7 @@ from flask import Flask, render_template,jsonify
 import mysql.connector
 
 app = Flask(__name__)
-
+#第一次修改app.py
 # 配置数据库连接
 db_config = {
     'user': 'root',
