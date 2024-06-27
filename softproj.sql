@@ -16,6 +16,7 @@
 
 /*
  对softproj.sql的第一次修改
+ 对softproj.sql的第二次修改
  */
 
 SET NAMES utf8mb4;
